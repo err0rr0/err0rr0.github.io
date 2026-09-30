@@ -1,0 +1,10 @@
+baseURL = "https://err0rr0.github.io/"
+# 网站链接
+title = "err0rr0`s blog"
+# 网站标题
+author = "Err0rr0"
+# 文章作者，若文章没有定义以此显示
+copyright = "Copyright © 2026 err0rr0."
+# 版权信息
+locale = 'en-us'
+theme = "hugo-theme-reimu"
